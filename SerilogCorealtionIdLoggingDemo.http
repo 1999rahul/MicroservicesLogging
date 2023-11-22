@@ -1,0 +1,6 @@
+@SerilogCorealtionIdLoggingDemo_HostAddress = http://localhost:5070
+
+GET {{SerilogCorealtionIdLoggingDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
